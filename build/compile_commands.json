@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/projetos/A01_ED2/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\hello.dir\\hello.cpp.obj -c C:\\projetos\\A01_ED2\\hello.cpp",
+  "file": "C:/projetos/A01_ED2/hello.cpp",
+  "output": "CMakeFiles/hello.dir/hello.cpp.obj"
+}
+]
